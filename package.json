@@ -1,0 +1,23 @@
+{
+  "name": "jester",
+  "version": "0.0.1",
+  "description": "First Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jistir03/Jester.git"
+  },
+  "keywords": [
+    "First",
+    "Project"
+  ],
+  "author": "Jester Tanada \"jestertanada03@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jistir03/Jester/issues"
+  },
+  "homepage": "https://github.com/Jistir03/Jester#readme"
+}
